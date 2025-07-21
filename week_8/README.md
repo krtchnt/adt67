@@ -1,2 +1,2 @@
 > [!WARNING]
-> Header file `week8.h` is missing.
+> Header file `week8.h` and sub-lab names are missing.
